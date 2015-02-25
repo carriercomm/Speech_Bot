@@ -1,4 +1,4 @@
-# Speach_Bot
+# Speech_Bot
 an attempt at creating a python program to imitate human speach 
 
 <h2>The Original Idea for the Algorithm</h2>
