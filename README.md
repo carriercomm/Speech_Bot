@@ -15,6 +15,7 @@ create a graph where each node is a word and there are directed edges from that 
 <li> Vizualizing word network for debugging/cuz it would be cool</li>
 <li>Add puntuation</li>
 <li> How to include beginings/ends of sentances???</li>
+<li> Add ability to export word graph to JSON for interactive d3 visual</li>
 </ul>
 
 
