@@ -22,7 +22,7 @@ for i in range(len(wordArr)-1):
 		if next_Word in word_Graph[word]:
 			word_Graph[word][next_Word] += 1.
 
-seed = 'To'
+seed = wordArr[int(r.random()*len(wordArr))]
 sentance = seed
 for i in range(100):
 	rand = r.random()
