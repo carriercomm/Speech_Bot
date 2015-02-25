@@ -12,7 +12,9 @@ create a graph where each node is a word and there are directed edges from that 
 <li> better reandom weight selection algorithm </li>
 <li>Create graph class for simpler future work</li>
 <li>Include external graph library</li>
-<li> Vizualizing word network for debugginf/cuz it would be cool</li>
+<li> Vizualizing word network for debugging/cuz it would be cool</li>
+<li>Add puntuation</li>
+<li> How to include beginings/ends of sentances???</li>
 </ul>
 
 
