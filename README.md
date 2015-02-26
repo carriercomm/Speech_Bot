@@ -7,15 +7,16 @@ create a graph where each node is a word and there are directed edges from that 
 
 <h3> Things to work on </h3>
 <ul>
-<li>Take in sentance history for more precise edge weights</li>
-<li>Pull text from facebook/gmail </li>
-<li> better reandom weight selection algorithm </li>
-<li>Create graph class for simpler future work</li>
-<li>Include external graph library</li>
-<li> Vizualizing word network for debugging/cuz it would be cool</li>
-<li>Add puntuation</li>
-<li> How to include beginings/ends of sentances???</li>
-<li> Add ability to export word graph to JSON for interactive d3 visual</li>
+<li>[x]Take in sentance history for more precise edge weights</li>
+<li>[]Consider using <a href = 'http://www.nltk.org/'>the NLTK </a> To check sentance validity</li>
+<li>[]Pull text from facebook/gmail </li>
+<li> []better reandom weight selection algorithm </li>
+<li>[]Create graph class for simpler future work</li>
+<li>[]Include external graph library</li>
+<li> []Vizualizing word network for debugging/cuz it would be cool</li>
+<li>[]Add puntuation</li>
+<li> []How to include beginings/ends of sentances???</li>
+<li> []Add ability to export word graph to JSON for interactive d3 visual</li>
 </ul>
 
 
