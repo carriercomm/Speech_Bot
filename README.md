@@ -5,6 +5,9 @@ an attempt at creating a python program to imitate human speach
 Read in textual data.
 create a graph where each node is a word and there are directed edges from that word to any word which has comes after it in any of the textual data. Start with a seed word. To generate the next word read in the current chain of words. Assign weights to the edges to the next words based on how many time the word preceded the next word. When calculating weights also include more heavily weighted those words which came after the same n length chain, with longer n corresponding to higher weighting. With some max n chosen. Statistically chose which edge to follow based on the edge weights.
 
+for the ngram section i got the data from <a href = 'http://www.ngrams.info/download_coca.asp'>http://www.ngrams.info/download_coca.asp</a>. I am using the free 2-grams.
+
+
 <h3> Things to work on </h3>
 <ul>
 <li>[x]Take in sentance history for more precise edge weights</li>
@@ -17,6 +20,8 @@ create a graph where each node is a word and there are directed edges from that 
 <li>[]Add puntuation(in progress)</li>
 <li> []How to include beginings/ends of sentances???</li>
 <li> []Add ability to export word graph to JSON for interactive d3 visual</li>
+<li> [] include n-gram analysis in text analysis instead of multilevel?</li>
+<li> a python autocorrect module to fix sentances?</li>
 </ul>
 
 
